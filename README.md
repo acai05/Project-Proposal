@@ -39,27 +39,27 @@ Employee might have difficulty in viewing the customer’s details which the exi
  
 
 1.3 PROJECT OBJECTIVE
-Only authorised admin can fully make alterations on the customer’s information. Wrong id and password will not get the access.
-Admin and authorised employee can insert, update and delete the customer’s information.
-The employee also have the access to update the customer’s details that are suits with their unit of work.
-All the employee can view the order and customer’s details and make updates if necessary.
-Employee can filter and sort the data according to date, floor level and category which can ease their job in monitoring the customers.
+a. Only authorised admin can fully make alterations on the customer’s information. Wrong id and password will not get the access.
+b. Admin and authorised employee can insert, update and delete the customer’s information.
+c. The employee also have the access to update the customer’s details that are suits with their unit of work.
+d. All the employee can view the order and customer’s details and make updates if necessary.
+e. Employee can filter and sort the data according to date, floor level and category which can ease their job in monitoring the customers.
  
 
 1.4 PROJECT SCOPE
 
 1.4.1 Scope
-Login and logout feature - where we only give access to the authorised employee only (User Authentication).
-Insert feature - where we can add a new set of data (registration phase).
-Update feature - where we can update any information on the customer’s data including the extra requests that are requested from the customer.
-Delete feature - where we can delete any outdated and unwanted data.
-View feature - where we can view the customer’s information as well as if we want to sort the customers according to date, floor level and category.
+a. Login and logout feature - where we only give access to the authorised employee only (User Authentication).
+b. Insert feature - where we can add a new set of data (registration phase).
+c. Update feature - where we can update any information on the customer’s data including the extra requests that are requested from the customer.
+d. Delete feature - where we can delete any outdated and unwanted data.
+e. View feature - where we can view the customer’s information as well as if we want to sort the customers according to date, floor level and category.
 
  
 1.4.2 Targeted User
-This system is for any hotel businesses as well as motels, resorts and other suitable businesses.
-This system is for administrations and employee of the hotel only, which we want to stress on the registering, storing and organizing the customer’s data.
-This system is for all department inside the businesses.
+a. This system is for any hotel businesses as well as motels, resorts and other suitable businesses.
+b. This system is for administrations and employee of the hotel only, which we want to stress on the registering, storing and organizing  the customer’s data.
+c. This system is for all department inside the businesses.
  
  
 1.4.3 Specific Platform
@@ -67,24 +67,24 @@ We will use Servlet, JSP and JavaBean for this project. We will also use JDBC fo
  
 
 1.5 CONSTRAINTS
-Time constraints - this project might need more time to finish than what have been planned.
-Features constraints - this project might give few same functionalities from the existing applications with less improvement.
+a. Time constraints - this project might need more time to finish than what have been planned.
+b. Features constraints - this project might give few same functionalities from the existing applications with less improvement.
  
  
 1.6 PROJECT STAGES
-Login page (1 day)
-Database (6 days)
-Hotel room
-Customer record
-Admin / staff record
-View page (2 days)
+a. Login page (1 day)
+b. Database (6 days)
+-- Hotel room
+-- Customer record
+--Admin / staff record
+c. View page (2 days)
  
  
 1.7 SIGNIFICANCE OF THE PROJECT
 The proposed study is a web based system that would improve the manual system transaction for hotel business such as:
-Organized customers’ record
-Secured record keeping
-Increase efficiency in operation for each department
+a. Organized customers’ record
+b. Secured record keeping
+c. Increase efficiency in operation for each department
  
  
 1.8 SUMMARY
